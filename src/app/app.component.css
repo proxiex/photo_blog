@@ -2,3 +2,11 @@ h2 {
     font-family: sans-sarif;
     font-size: 1.2em
 }
+
+#header {
+    background-color: aliceblue;
+    margin: 0;
+    padding: 1%;
+    text-align: center;
+    border-bottom: 1px solid #000000;
+}

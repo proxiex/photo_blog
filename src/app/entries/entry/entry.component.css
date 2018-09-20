@@ -1,3 +1,8 @@
+#entries {
+    width: 60%;
+    margin: 0 auto;
+}
+
 figure {
     margin: 0;
     border: 1px solid #000;
